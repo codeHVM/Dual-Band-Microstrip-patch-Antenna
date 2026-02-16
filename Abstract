@@ -1,0 +1,8 @@
+This project presents the design and analysis of a compact dual-band microstrip patch antenna operating at 3.5 GHz and 5.6 GHz, targeting modern wireless applications such as 5G and Wi-Fi.
+The antenna is fabricated on an FR-4 epoxy substrate (εr = 4.4, thickness = 1.6 mm) and uses dual inverted L-shaped patches along with a defected ground structure (DGS) to achieve multiband performance. 
+Simulations performed in Ansys HFSS demonstrate strong impedance matching with return losses of −17 dB at 3.5 GHz and −21 dB at 5.6 GHz, along with stable broadside radiation patterns.
+The antenna achieves usable bandwidths of approximately 200 MHz (3.34–3.54 GHz) and 1.36 GHz (4.90–6.26 GHz), making it suitable for WLAN, WiMAX, and IoT wireless devices. 
+The proposed design offers a compact size, low cost, and simple fabrication, while maintaining acceptable gain and VSWR performance. 
+Minor differences between simulated and measured results were observed due to fabrication tolerances, but overall performance confirms the antenna’s practicality for portable wireless systems. 
+
+
